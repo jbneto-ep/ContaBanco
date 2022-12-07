@@ -14,7 +14,7 @@ public class ContaTerminal {
         System.out.println("Agora, digite o número da sua conta: ");
         conta = scan.nextInt();
 
-        System.out.println("Qual o seu nome completo? ");
+        System.out.println("Qual o seu nome? ");
         nomeCliente = scan.next();
 
         System.out.println("Agora, digite o valor do saldo para saque: ");
